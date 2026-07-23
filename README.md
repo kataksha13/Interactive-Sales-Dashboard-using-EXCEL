@@ -40,3 +40,7 @@ Created an Interactive Sales Dashboard in Excel to analyse customer behaviour, s
 • Conditional Formatting
 
 • Excel Formulas
+
+## Dashboard
+
+
