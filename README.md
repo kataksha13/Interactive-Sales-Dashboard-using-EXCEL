@@ -1,6 +1,8 @@
 # Interactive-Sales-Dashboard-using-EXCEL
 Created an Interactive Sales Dashboard in Excel to analyse customer behaviour, sales performance, and delivery insights.
 
+EXCEL AND DASHBOARD LINK: <a href = https://github.com/kataksha13/Interactive-Sales-Dashboard-using-EXCEL/blob/main/ecommerce-project.xlsx> Data set and Dashboard link</a>
+
 ## Dashboard KPIs:
 
 • Total Orders
