@@ -45,4 +45,4 @@ EXCEL AND DASHBOARD LINK: <a href = https://github.com/kataksha13/Interactive-Sa
 
 ## Dashboard
 
-
+<img width="1600" height="876" alt="WhatsApp Image 2026-07-23 at 2 51 39 PM" src="https://github.com/user-attachments/assets/dc43ada2-1621-41e6-9343-7e7f5e7666c4" />
